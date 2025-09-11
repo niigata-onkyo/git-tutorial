@@ -1,3 +1,4 @@
+<!--
 ---
 title: Demo Page
 type: docs
@@ -6,4 +7,4 @@ next: docs/folder/
 ---
 
 A simple demo page.
-
+-->

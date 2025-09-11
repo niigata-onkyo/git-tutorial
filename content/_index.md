@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Git チュートリアル
 toc: false
 ---
 
-This is the landing page.
+音響工学向けの Git / GitHub チュートリアルです。
 
 ## Explore
 
@@ -12,6 +12,8 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
+<!--
 ## Documentation
 
 For more information, visit [Hextra](https://imfing.github.io/hextra).
+-->

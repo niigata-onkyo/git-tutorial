@@ -1,3 +1,4 @@
+<!--
 ---
 title: Folder
 type: docs
@@ -8,3 +9,4 @@ sidebar:
 ---
 
 Pages can be organized into folders.
+-->
