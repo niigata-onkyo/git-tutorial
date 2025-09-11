@@ -2,7 +2,7 @@
 title: Git 使い方
 type: docs
 prev: docs/
-# next: docs/git/01
+next: docs/git/01-installation
 sidebar:
   open: true
 ---
