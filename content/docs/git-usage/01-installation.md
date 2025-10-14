@@ -27,9 +27,19 @@ brew install git
 
 でインストールできます。
 
+Linux は規定でインストールされていることが多いですが、
+
+```sh
+# Debian/Ubuntu 系
+sudo apt update
+sudo apt install git
+```
+
+でインストールできます。
+
 ## 2. 設定してインストール
 
-(ここからは、Windows 設定のみです。macOS の人ごめん!)
+(ここからは、Windows 設定のみです。macOS の人はおそらく設定不要のはずです)
 
 Windows ではダウンロードした `Git-2.**.*-64-bit.exe` 以下の画面が出ます。
 
