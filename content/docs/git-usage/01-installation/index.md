@@ -2,7 +2,8 @@
 title: インストール
 type: docs
 prev: docs/git-usage/
-# next: docs/git/01
+next: docs/git-usage/02-vscode-setup/
+weight: 1
 ---
 
 このページでは Git のインストール方法について記載します。
