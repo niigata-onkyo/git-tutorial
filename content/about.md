@@ -3,4 +3,6 @@ title: About
 type: about
 ---
 
-<!-- This is the about page. -->
+Git/GitHub についての簡単な説明を行っているページです。
+
+(大まかな理解を目的としており、厳密には違う情報も含まれている可能性があります)
