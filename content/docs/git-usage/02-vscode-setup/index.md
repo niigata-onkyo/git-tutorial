@@ -2,7 +2,7 @@
 title: VSCode 設定
 type: docs
 prev: docs/git-usage/01-installation/
-# next: docs/git/01
+next: docs/git-usage/03-git-basic/
 weight: 2
 ---
 
