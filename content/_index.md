@@ -3,7 +3,7 @@ title: Git チュートリアル
 toc: false
 ---
 
-音響工学向けの Git / GitHub チュートリアルです。
+音響工学プロジェクト向けの Git / GitHub チュートリアルです。
 
 ## Explore
 
