@@ -5,6 +5,7 @@ prev: docs/
 # next: docs/git/01
 sidebar:
   open: true
+weight: 3
 ---
 
 このページでは、GitHub の使い方について記載します。
