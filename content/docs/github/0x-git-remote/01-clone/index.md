@@ -1,9 +1,10 @@
 ---
-title: リポジトリの作成/開始
+title: リポジトリのクローン
 type: docs
 prev: docs/git-usage/03-git-basic/
 next: docs/git-usage/03-git-basic/02-commit/
 weight: 1
+draft: true
 ---
 
 このページでは、VSCode を利用して、Repository (リポジトリ) を作成する方法を記載します。
@@ -26,14 +27,8 @@ weight: 1
 
 ![Git アイコン](02.png)
 
-すると、Git の操作画面になります。(今後の Git の操作ではこの画面をよく使うので、覚えておいてください!)
 
-![リポジトリを初期化する](03.png)
 
-ここで、真ん中の「リポジトリを初期化する」を押すと、現在のフォルダーで Git が使えるようになります。
+![Init](image-1.png)
 
-## 3. 最終画面
-
-成功すると、以下のような画面になります。
-
-![Init 後](04.png)
+![Init 後](image-2.png)

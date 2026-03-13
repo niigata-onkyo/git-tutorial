@@ -6,9 +6,11 @@ next: docs/git-usage/03-git-basic/03-branch/
 weight: 2
 ---
 
-## コミット関係
+このページでは、VSCode を利用して、ステージ、コミットを行う方法を記載します。
 
-### ステージ
+## ステージ
+
+### 
 
 ![Stage](image-3.png)
 
@@ -16,7 +18,7 @@ weight: 2
 
 ![変更の取り消し](image-4.png)
 
-### コミット
+## コミット
 
 ![Commit](image-6.png)
 
