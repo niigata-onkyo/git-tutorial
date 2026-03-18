@@ -1,5 +1,5 @@
 ---
-title: インストール
+title: アカウント作成
 type: docs
 prev: docs/github/
 # next: docs/git/01
