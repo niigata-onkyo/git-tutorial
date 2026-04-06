@@ -3,6 +3,7 @@ title: アカウント設定
 type: docs
 prev: docs/github/01-create-account/
 next: docs/github/03-how-to-use/
+weight: 2
 ---
 
 このページでは、GitHub アカウントの設定についていくつか紹介します。

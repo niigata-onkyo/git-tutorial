@@ -3,6 +3,7 @@ title: アカウント作成
 type: docs
 prev: docs/github/
 next: docs/github/01-create-account/
+weight: 1
 ---
 
 このページでは、GitHub アカウントの作成方法について記載します。
