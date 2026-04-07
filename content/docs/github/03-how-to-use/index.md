@@ -4,34 +4,98 @@ type: docs
 prev: docs/github/02-account-settings/
 # next: docs/github/
 weight: 3
-draft: true
 ---
 
 ## トップ画面
 
-<!-- トップ画面 -->
+![トップ画面](01.png)
+
+### アクセス方法
+
+<https://github.com> にアクセスする。
 
 ## 自分のページ
 
+![自分のページ](02.png)
+
 ### アクセス方法
 
+サイドバーを開き、Profile を選択する。
+
+![アクセス方法](03.png)
+
 ### 見方
+
+以下の通り。
+
+![alt text](04.png)
 
 ## 音響のページ
 
+![alt text](05.png)
+
 ### アクセス方法
 
+<https://github.com/niigata-onkyo> にアクセス。
+
+または、自分のページから開く。
+
+![alt text](06.png)
+
 ### 見方
+
+自分のページとほとんど同じです。
 
 ## リポジトリ
 
+![alt text](image.png)
+
+### アクセス方法
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+### 見方
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+### Issues
+
+![alt text](image-6.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+(*音響工学プロジェクトのローカルルール*: 簡単なバグやタイトルで分かる場合は、ほとんどまたは何も書かなくてもいいです)
+
+### Pull Requests
+
+![alt text](image-7.png)
+
+![alt text](image-10.png)
+
+#### Merge
+
+自動で Merge 可能
+
+![alt text](image-11.png)
+
+Conflict (競合) が発生しているため、手動で修正が必要 (少し難しい)
+
+![alt text](image-12.png)
+
+## 通知
+
 ### アクセス方法
 
 ### 見方
 
-### Issues
-
-### Pull Requests
 
 ## その他
 
