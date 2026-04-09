@@ -1,5 +1,5 @@
 ---
-title: GitHub の使い方
+title: 各ページの使い方
 type: docs
 prev: docs/github/02-account-settings/
 next: docs/github/02-account-settings/01-top-page/

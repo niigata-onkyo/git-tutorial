@@ -10,9 +10,9 @@ weight: 3
 
 ## アクセス方法
 
-<https://github.com/niigata-onkyo> にアクセス。
+<https://github.com/niigata-onkyo> にアクセスします。
 
-または、自分のページから開く。
+または、自分のページの左下から開きます。
 
 ![alt text](02.png)
 
