@@ -173,6 +173,7 @@ Git Bash を起動します。
 ```sh
 git config --global user.name <ユーザー名>
 git config --global user.email <メールアドレス>
+# もし、GitHub アカウントを先に作成している場合は、そのメールアドレスを設定することを推奨します。
 
 # 例
 # git config --global user.name happy-coding
