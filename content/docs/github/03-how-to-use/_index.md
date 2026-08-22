@@ -2,7 +2,7 @@
 title: 各ページの使い方
 type: docs
 prev: docs/github/02-account-settings/
-next: docs/github/02-account-settings/01-top-page/
+next: docs/github/03-how-to-use/01-top-page/
 sidebar:
   open: false
 weight: 3

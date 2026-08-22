@@ -3,6 +3,7 @@ title: はじめに
 type: docs
 prev: docs/git/
 next: docs/git/02-diff
+weight: 1
 ---
 
 ## Git を使いたい背景
