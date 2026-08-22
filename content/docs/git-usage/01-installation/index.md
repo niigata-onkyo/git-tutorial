@@ -10,6 +10,8 @@ weight: 1
 
 ## 1. ダウンロード
 
+{{< details title="Windows" closed="true" >}}
+
 はじめに、[Git 公式サイト](https://git-scm.com/downloads)にアクセスし、Git をダウンロードします。
 
 ![ダウンロード](01-01.png)
@@ -20,6 +22,10 @@ Windows は x64 から、
 
 ![Windows](01-02-win.png)
 
+{{< /details >}}
+
+{{< details title="macOS" closed="true" >}}
+
 macOS は、ターミナルを開き、
 
 ```sh
@@ -28,7 +34,13 @@ brew install git
 
 でインストールできます。
 
-Linux は規定でインストールされていることが多いですが、
+{{< /details >}}
+
+{{< details title="Linux (Debian 系)" closed="true" >}}
+
+Linux は規定でインストールされていることが多いです。
+
+インストールされていない場合は、ターミナルから
 
 ```sh
 # Debian/Ubuntu 系
@@ -38,9 +50,11 @@ sudo apt install git
 
 でインストールできます。
 
+{{< /details >}}
+
 ## 2. 設定してインストール
 
-(ここからは、Windows 設定のみです。macOS/Linux の人はおそらく設定不要のはずです。[Git 設定](#3-git-設定)に進んでください)
+{{< details title="Windows" closed="true" >}}
 
 Windows ではダウンロードした `Git-2.**.*-64-bit.exe` 以下の画面が出ます。
 
@@ -72,7 +86,7 @@ Windows ではダウンロードした `Git-2.**.*-64-bit.exe` 以下の画面�
 
 これは、Git で利用するエディターの設定です。
 
-初期は Vim なので、Visual Studio Code (VSCode) または、Notepad (メモ帳) をおすすめします。
+初期は Vim ですが、Visual Studio Code (VSCode) または、Notepad (メモ帳) に変更するのをおすすめします。
 
 ---
 
@@ -160,13 +174,34 @@ Git Bash のターミナルエミュレータとして利用するものです�
 
 このあとは、Git のユーザー名とメールアドレスを指定します。
 
+{{< /details >}}
+
 ## 3. Git 設定
+
+{{< details title="Windows" closed="true" >}}
 
 ![alt text](01-17.png)
 
 Git Bash を起動します。
 
 ![alt text](01-18.png)
+
+{{< /details >}}
+
+{{< details title="macOS" closed="true" >}}
+
+おすすめ設定です。
+
+```sh
+git config --global core.editor "code --wait"
+git config --global core.quotepath false
+git config --global core.autocrlf input
+git config --global fetch.prune true 
+```
+
+{{< /details >}}
+
+{{< details title="共通" >}}
 
 以下の方法でユーザー名とメールアドレスを指定します。
 
@@ -189,5 +224,7 @@ git config user.name
 git config user.email
 # 出力例: example@example.com
 ```
+
+{{< /details >}}
 
 以上です。
